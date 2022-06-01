@@ -1,7 +1,7 @@
 # Curso básico de Python
 En este curso aprenderás a programar en Python.
 
-![Logo de python](imagenes\python-logo1-png.png)
+![Logo de python](imagenes\logopy.jpg)
 
 **Requisitos** 
 -Python 3.6 o superior
