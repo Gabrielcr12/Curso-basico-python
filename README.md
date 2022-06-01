@@ -6,7 +6,7 @@ En este curso aprenderás a programar en Python.
 **Requisitos** 
 -Python 3.6 o superior
 -Computadora con Windows,Linux o MacOS
--Editor de texto como           [Visual Studio Code](https://code.visualstudio.com/)
+-Editor de texto como           [Visual Studio Code]([https://code.visualstudio.com/](https://github.com/Gabrielcr12/Curso-basico-python/blob/main/imagenes/logopy.jpg))
 
 ------------------------------------------------
 
